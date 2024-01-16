@@ -6,6 +6,11 @@ interface Test{
 	String NAME= "Punit Ranjan";
 	
 	 void m1();
+	 default   void m2()
+	 {
+		 
+	 }
+
 		
 }
 
